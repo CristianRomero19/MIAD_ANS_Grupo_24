@@ -1,4 +1,4 @@
-# MIAD_ANS_Grupo_24 [andes-img]
+# MIAD_ANS_Grupo_24 [![Universidad de los Andes][andes-img]][UAndes]
 Este repositorio contiene el proyecto final del grupo 24 en la materia aprendizaje no supervisado de la Maestria en inteligencia analitica de datos de la universidad de los andes.
 
 El repositorio contiene 4 carpetas con la informacion correspondiente al proyecto final las cuales son:
@@ -9,3 +9,4 @@ El repositorio contiene 4 carpetas con la informacion correspondiente al proyect
 * **Resultados_Preliminares:** Esta carpeta contiene los resultados preliminares del codigo del proyecto.
 
 [andes-img]: https://upload.wikimedia.org/wikipedia/commons/c/c9/Universidad_de_los_Andes_%28logo%29.png
+[UAndes]: https://uniandes.edu.co/
