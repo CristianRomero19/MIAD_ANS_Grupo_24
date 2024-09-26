@@ -1,0 +1,6 @@
+Para el acceso a la data la cual consume el proyecto final del Grupo 24 es necesario solicitarla al correo cm.romerob1@uniandes.edu.co.
+
+esto llevara a un proceso de validation por parte de la compañía dueña de los datos y una siguiente autorización con restricciones de divulgación de la data.
+
+Esto debido a que los datos son personales y financieros de clientes reales.
+Gracias por su tiempo
